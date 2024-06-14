@@ -5,6 +5,6 @@ metadata:
   annotations:
     github.com/project-slug: juligomez2008/AW1070004_aplicacion_test1
 spec:
-  type: other
+  type: service
   lifecycle: unknown
   owner: guests
