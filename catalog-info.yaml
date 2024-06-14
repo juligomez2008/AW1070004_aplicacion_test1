@@ -1,0 +1,10 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: AW1070004_aplicacion_test1
+  annotations:
+    github.com/project-slug: juligomez2008/AW1070004_aplicacion_test1
+spec:
+  type: other
+  lifecycle: unknown
+  owner: guests
