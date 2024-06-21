@@ -4,6 +4,7 @@ metadata:
   name: AW1070004_aplicacion_test1
   annotations:
     github.com/project-slug: juligomez2008/AW1070004_aplicacion_test1
+    appcode: AW1070004
 spec:
   type: service
   lifecycle: unknown
