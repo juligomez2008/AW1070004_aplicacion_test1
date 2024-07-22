@@ -1,10 +1,10 @@
 apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
-  name: AW1070004_aplicacion_test1
+  name: nu0080001_aplicacion_test1
   annotations:
-    github.com/project-slug: juligomez2008/AW1070004_aplicacion_test1
-    appcode: AW1070004
+    github.com/project-slug: juligomez2008/AW1070004_component_sap_d
+    appcode: nu0080001
 spec:
   type: service
   lifecycle: unknown
